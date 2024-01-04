@@ -1,0 +1,7 @@
+imprime(2);
+imprime(8);
+imprime(3);
+imprime(4);
+imprime(5);
+
+

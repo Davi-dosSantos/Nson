@@ -1,0 +1,12 @@
+main {
+	a = 100;
+	while (a > 0) {
+		imprime(a);
+		b = 50;
+		while (b > 0) {
+			imprime(b);
+			b = b - 10;
+		}
+		a = a - 20;
+	}
+}

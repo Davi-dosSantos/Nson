@@ -1,0 +1,16 @@
+main{
+	a = 10;
+	b = 20;
+	if(a < b){
+		imprime(a);
+	}
+	else{
+		imprime(b);
+	}
+	if(b < a){
+		imprime(a);
+	}
+	else{
+		imprime(b);
+	}
+}
